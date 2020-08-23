@@ -1,0 +1,2 @@
+# Spoider
+A discord bot.
